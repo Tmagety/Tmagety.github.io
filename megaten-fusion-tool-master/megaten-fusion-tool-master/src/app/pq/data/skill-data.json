@@ -1,0 +1,2392 @@
+{
+  "Absorb Elec": {
+    "effect": "Absorb damage from Elec attacks",
+    "elem": "pas",
+    "unique": true
+  },
+  "Absorb Fire": {
+    "effect": "Absorb damage from Fire attacks",
+    "elem": "pas",
+    "unique": true
+  },
+  "Absorb Ice": {
+    "effect": "Absorb damage from Ice attacks",
+    "elem": "pas",
+    "unique": true
+  },
+  "Absorb Wind": {
+    "effect": "Absorb damage from Wind attacks",
+    "elem": "pas",
+    "unique": true
+  },
+  "Aegis Shield": {
+    "effect": "High chance to nullify Fire, Wind, Ice, and Elec versus the user's row. Athena exclusive",
+    "elem": "pas",
+    "unique": true
+  },
+  "Aeon Rain": {
+    "card": "Triglav",
+    "cost": 224,
+    "effect": "A medium Stab attack.",
+    "elem": "sta",
+    "target": "All enemies"
+  },
+  "Agi": {
+    "cost": 1008,
+    "effect": "A light Fire attack.",
+    "elem": "fir",
+    "target": "1 enemy"
+  },
+  "Agidyne": {
+    "card": "Black Frost",
+    "cost": 1046,
+    "effect": "A heavy Fire attack.",
+    "elem": "fir",
+    "target": "1 enemy"
+  },
+  "Agilao": {
+    "card": "Phoenix",
+    "cost": 1028,
+    "effect": "A medium Fire attack.",
+    "elem": "fir",
+    "target": "1 enemy"
+  },
+  "Alleys of Light": {
+    "card": "Parvati",
+    "effect": "Slight HP restore for each step taken in a labyrinth.",
+    "elem": "nav",
+    "target": "Party",
+    "unique": true
+  },
+  "Amrita": {
+    "cost": 1040,
+    "effect": "Full HP restore. Remove all Binds and status ailments. Kamui exclusive",
+    "elem": "rec",
+    "target": "1 ally",
+    "unique": true
+  },
+  "Angelic Trumpet": {
+    "cost": 260,
+    "effect": "3 heavy Bash attacks against random targets. Trumpeter exclusive",
+    "elem": "bas",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Arrow Rain": {
+    "card": "Tsuchigumo",
+    "cost": 164,
+    "effect": "A light Stab attack.",
+    "elem": "sta",
+    "target": "All enemies"
+  },
+  "Assault Dive": {
+    "cost": 148,
+    "effect": "A medium Bash attack, with medium chance of knockdown.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Assault Shot": {
+    "card": "Berith",
+    "cost": 156,
+    "effect": "A medium Stab attack that pierces to the back row.",
+    "elem": "sta",
+    "target": "1 enemy"
+  },
+  "Bane Slice": {
+    "cost": 110,
+    "effect": "A light Cut attack, with medium chance of Curse.",
+    "elem": "cut",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Bash": {
+    "effect": "Normal attack using the Bash attribute",
+    "elem": "bas",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Becalm": {
+    "cost": 1018,
+    "effect": "Remove all Binds. [Only usable in battle]",
+    "elem": "rec",
+    "target": "1 row",
+    "unique": true
+  },
+  "Bestial Roar": {
+    "card": "Nue",
+    "cost": 1016,
+    "effect": "Raise physical attack and act first for 3 turns",
+    "elem": "sup"
+  },
+  "Binding Cry": {
+    "cost": 1012,
+    "effect": "Medium chance of Paralysis.",
+    "elem": "ail",
+    "target": "All enemies"
+  },
+  "Binding Hands": {
+    "card": "Belphegor",
+    "effect": "Raise chance of causing Binds",
+    "elem": "pas"
+  },
+  "Black Viper": {
+    "cost": 1099,
+    "effect": "A severe Almighty attack. Satan exclusive",
+    "elem": "alm",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Blade of Fury": {
+    "card": "Tam Lin",
+    "cost": 226,
+    "effect": "A heavy Cut attack.",
+    "elem": "cut",
+    "melee": true,
+    "target": "1 row"
+  },
+  "Bloody Vanguard": {
+    "card": "Kartikeya",
+    "effect": "When user attacks, allies deal more damage to that enemy that turn",
+    "elem": "pas"
+  },
+  "Body Shield": {
+    "card": "Ananta",
+    "cost": 1018,
+    "effect": "Take attacks in place of allies, with reduced damage.",
+    "elem": "sup",
+    "target": "1 row"
+  },
+  "Bolt Link": {
+    "card": "Mezuki",
+    "cost": 148,
+    "effect": "A light Cut + Elec attack. [Link damage with allies' attacks] ",
+    "elem": "ele",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Bolt Strike": {
+    "cost": 112,
+    "effect": "A light Bash + Elec attack.",
+    "elem": "ele",
+    "target": "1 enemy"
+  },
+  "Brain Shake": {
+    "card": "Siegfried",
+    "cost": 212,
+    "effect": "A heavy Bash attack, with medium chance of Sleep.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Broadshot": {
+    "cost": 124,
+    "effect": "A light Stab attack.",
+    "elem": "sta",
+    "melee": true,
+    "target": "1 row"
+  },
+  "Brutal Slash": {
+    "card": "Mahakala",
+    "cost": 234,
+    "effect": "A heavy Cut attack.",
+    "elem": "cut",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Buchikamashi": {
+    "cost": 118,
+    "effect": "A light Bash attack.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Bufu": {
+    "cost": 1008,
+    "effect": "A light Ice attack.",
+    "elem": "ice",
+    "target": "1 enemy"
+  },
+  "Bufudyne": {
+    "card": "Skadi",
+    "cost": 1046,
+    "effect": "A heavy Ice attack.",
+    "elem": "ice",
+    "target": "1 enemy"
+  },
+  "Bufula": {
+    "card": "Jack Frost",
+    "cost": 1028,
+    "effect": "A medium Ice attack.",
+    "elem": "ice",
+    "target": "1 enemy"
+  },
+  "Calamity Seed": {
+    "cost": 1100,
+    "effect": "Multiple heavy Cut attacks per turn, for 3 turns. Magatsu-Izanagi exclusive",
+    "elem": "cut",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Calming Lull": {
+    "effect": "Gather safely from Power Spots",
+    "elem": "nav"
+  },
+  "Charge Shot": {
+    "effect": "A severe Stab attack that pierces to the back row",
+    "elem": "sta",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Circle Recovery": {
+    "card": "Anubis",
+    "effect": "Slight HP restore each turn. [Requires Circles]",
+    "elem": "pas",
+    "target": "Party"
+  },
+  "Clairvoyance": {
+    "card": "Yatagarasu",
+    "effect": "Reveal nearby treasure boxes, FOEs, and shortcuts",
+    "elem": "nav"
+  },
+  "Cleave": {
+    "cost": 128,
+    "effect": "A light Cut attack.",
+    "elem": "cut",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Colossal Swing": {
+    "card": "Warrior Zeus",
+    "effect": "Low chance to add splash effect on single-target attack skills",
+    "elem": "pas",
+    "unique": true
+  },
+  "Conqueror Title": {
+    "effect": "Greatly raise critical hit rate. Caesar exclusive",
+    "elem": "pas",
+    "unique": true
+  },
+  "Cornucopia": {
+    "effect": "Higher rate of rare materials. Low chance to gather multiple times",
+    "elem": "nav"
+  },
+  "Crazed Slash": {
+    "effect": "5-7 heavy Cut attacks against random targets",
+    "elem": "cut",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Critical Eye": {
+    "card": "Ose",
+    "cost": 1028,
+    "effect": "Raise critical hit rate for 3 turns",
+    "elem": "sup"
+  },
+  "Cut": {
+    "effect": "Normal attack using the Cut attribute",
+    "elem": "cut",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Cyclone": {
+    "cost": 1018,
+    "effect": "2-3 light Wind attacks against random targets. Zen exclusive",
+    "elem": "win",
+    "target": "1 row",
+    "unique": true
+  },
+  "Danse Macabre": {
+    "cost": 276,
+    "effect": "5-7 medium Cut attacks against random targets. Mahakala exclusive",
+    "elem": "cut",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Dark Wall": {
+    "card": "Mot",
+    "cost": 1016,
+    "effect": "Raises Darkness resistance for 3 turns.",
+    "elem": "sup",
+    "target": "Party"
+  },
+  "Deadly Vanguard": {
+    "effect": "When user attacks, allies deal even more damage to that enemy that turn. Evolved Cerberus exclusive",
+    "elem": "pas",
+    "unique": true
+  },
+  "Deafening Roar": {
+    "effect": "A high chance of knockdown",
+    "elem": "ail",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Death Chaser": {
+    "card": "Suparna",
+    "cost": 224,
+    "effect": "User may follow-up user's row's attacks, for 3 turns",
+    "elem": "sup",
+    "unique": true
+  },
+  "Death Counter": {
+    "card": "Yaksini",
+    "cost": 154,
+    "effect": "Counter-attack whenever user's row is attacked, for 3 turns",
+    "elem": "sup"
+  },
+  "Death Needle": {
+    "cost": 221,
+    "effect": "Heavy Stab attack. Low chance of instant kill, higher with ailment. Susano-o exclusive",
+    "elem": "sta",
+    "melee": true,
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Death's Scythe": {
+    "card": "Chernobog",
+    "effect": "Greatly raise damage against enemies with status ailments",
+    "elem": "pas",
+    "unique": true
+  },
+  "Deathbound": {
+    "card": "Kali",
+    "cost": 245,
+    "effect": "A heavy Cut attack.",
+    "elem": "cut",
+    "target": "All enemies"
+  },
+  "Debilitate": {
+    "cost": 1030,
+    "effect": "Greatly lower attack, defense, hit, and evasion for 3 turns. Messiah exclusive",
+    "elem": "sup",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Decay Circle": {
+    "card": "Ippon-Datara",
+    "cost": 1024,
+    "effect": "Medium chance of Strength Bind each turn, for 3 turns.",
+    "elem": "ail",
+    "target": "All enemies"
+  },
+  "Dekaja": {
+    "card": "Vasuki",
+    "cost": 1024,
+    "effect": "Remove stat buffs.",
+    "elem": "sup",
+    "target": "All enemies"
+  },
+  "Dekunda": {
+    "card": "Kingu",
+    "cost": 1024,
+    "effect": "Remove stat penalties.",
+    "elem": "sup",
+    "target": "Party"
+  },
+  "Demon's Bash": {
+    "effect": "Slightly raise Bash attack strength",
+    "elem": "pas"
+  },
+  "Demon's Cut": {
+    "effect": "Slightly raise Cut attack strength",
+    "elem": "pas"
+  },
+  "Demon's Stab": {
+    "effect": "Slightly raise Stab attack strength",
+    "elem": "pas"
+  },
+  "Dia": {
+    "card": "Pixie",
+    "cost": 1006,
+    "effect": "Slight HP restore.",
+    "elem": "rec",
+    "target": "1 ally"
+  },
+  "Diarahan": {
+    "card": "Norn",
+    "cost": 1036,
+    "effect": "Full HP restore.",
+    "elem": "rec",
+    "target": "1 ally"
+  },
+  "Diarama": {
+    "card": "Unicorn",
+    "cost": 1018,
+    "effect": "Moderate HP restore.",
+    "elem": "rec",
+    "target": "1 ally"
+  },
+  "Die For Me!": {
+    "cost": 1074,
+    "effect": "High chance of instant kill. Alice exclusive",
+    "elem": "dar",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Disarm": {
+    "cost": 1008,
+    "effect": "Medium chance of Strength Bind.",
+    "elem": "ail",
+    "target": "1 enemy"
+  },
+  "Door of Hades": {
+    "cost": 1078,
+    "effect": "3 heavy Almighty attacks, 1 per turn. High chance of instant kill. Thanatos exclusive",
+    "elem": "alm",
+    "target": "All Enemies",
+    "unique": true
+  },
+  "Dormina": {
+    "cost": 1008,
+    "effect": "Medium chance of Sleep.",
+    "elem": "ail",
+    "target": "1 enemy"
+  },
+  "Double Link": {
+    "card": "Turdak",
+    "effect": "Raise damage dealt with first hit and number of Links. ",
+    "elem": "pas"
+  },
+  "Double Shot": {
+    "cost": 112,
+    "effect": "2 light Stab attacks.",
+    "elem": "sta",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Dragon Cry": {
+    "card": "Kohryu",
+    "cost": 1028,
+    "effect": "Act first and greatly raise physical attack for 3 turns",
+    "elem": "sup"
+  },
+  "Drain Touch": {
+    "effect": "A medium Bash attack. Recover HP equal to damage dealt",
+    "elem": "bas",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Drastic Measure": {
+    "effect": "5 medium Bash attacks against random targets. Kind Doctor exclusive",
+    "elem": "bas",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Dream Slice": {
+    "effect": "A light Cut attack, with medium chance of Sleep",
+    "elem": "cut",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Elec Amp": {
+    "effect": "Raise Elec attack strength",
+    "elem": "pas",
+    "unique": true
+  },
+  "Elec Boost": {
+    "effect": "Slightly raise Elec attack strength",
+    "elem": "pas"
+  },
+  "Elec Corrosion": {
+    "effect": "Lower Elec resistance for 3 turns",
+    "elem": "sup",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Elec Dance": {
+    "effect": "A light Elec attack",
+    "elem": "ele",
+    "target": "1 row",
+    "unique": true
+  },
+  "Elec Wall": {
+    "card": "Hachiman",
+    "cost": 1016,
+    "effect": "Raise Elec resistance for 3 turns.",
+    "elem": "sup",
+    "target": "Party"
+  },
+  "End Shot": {
+    "card": "Nidhoggr",
+    "cost": 238,
+    "effect": "A heavy Stab attack which takes longer to execute.",
+    "elem": "sta",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Endless Bounty": {
+    "effect": "Higher rate of materials drops from enemies",
+    "elem": "nav"
+  },
+  "Endure": {
+    "card": "Satan",
+    "effect": "Withstand damage that brings HP down to 0 with 1 HP",
+    "elem": "pas",
+    "unique": true
+  },
+  "Eternal Melody": {
+    "card": "Genbu",
+    "cost": 2003,
+    "effect": "Extend stat buffs by 3 additional turns.",
+    "elem": "nav",
+    "target": "Party"
+  },
+  "Evil Smile": {
+    "card": "Legion",
+    "cost": 1012,
+    "effect": "Medium chance of Curse.",
+    "elem": "ail",
+    "target": "All enemies"
+  },
+  "Evil Touch": {
+    "cost": 1008,
+    "effect": "Medium chance of Curse.",
+    "elem": "ail",
+    "target": "1 enemy"
+  },
+  "Faerie's Vigil": {
+    "card": "Koropokkur",
+    "effect": "Reveal nearby shortcuts",
+    "elem": "nav"
+  },
+  "Fang Smash": {
+    "card": "Oni",
+    "cost": 162,
+    "effect": "A medium Bash attack, lowers target's attack for 3 turns.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Farsight": {
+    "effect": "Reveal treasure boxes, FOEs, and shortcuts in a wide area",
+    "elem": "nav"
+  },
+  "Fatal End": {
+    "card": "Red Rider",
+    "cost": 176,
+    "effect": "A heavy Cut attack which takes longer to execute.",
+    "elem": "cut",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Fire Amp": {
+    "effect": "Raise Fire attack strength",
+    "elem": "pas",
+    "unique": true
+  },
+  "Fire Boost": {
+    "effect": "Slightly raise Fire attack strength",
+    "elem": "pas"
+  },
+  "Fire Corrosion": {
+    "effect": "Lower Fire resistance for 3 turns",
+    "elem": "sup",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Fire Dance": {
+    "effect": "A light Fire attack that splashes to either side",
+    "elem": "fir",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Fire Spray": {
+    "cost": 1016,
+    "effect": "A light Fire attack that splashes to either side. Zen exclusive",
+    "elem": "fir",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Fire Wall": {
+    "card": "Mada",
+    "cost": 1016,
+    "effect": "Raise Fire resistance for 3 turns.",
+    "elem": "sup",
+    "target": "Party"
+  },
+  "First Star": {
+    "card": "Neko Shogun",
+    "effect": "Raise damage when attacking before all enemies act",
+    "elem": "pas"
+  },
+  "Flame Link": {
+    "card": "Yatsufusa",
+    "cost": 148,
+    "effect": "A light Cut + Fire attack. [Link damage with allies' attacks] ",
+    "elem": "fir",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Forked Spear": {
+    "card": "Seiten Taisei, Orpheus Telos",
+    "effect": "Medium chance of another attack after regular attack",
+    "elem": "pas"
+  },
+  "Fortune Hunter": {
+    "effect": "Reveal treasure boxes in a wide area",
+    "elem": "nav"
+  },
+  "Free Memento": {
+    "card": "Alraune",
+    "cost": 1018,
+    "effect": "Remove all Binds at end of each turn, for 3 turns.",
+    "elem": "rec",
+    "target": "User's row"
+  },
+  "Frost Edge": {
+    "cost": 124,
+    "effect": "A light Cut + Ice attack.",
+    "elem": "ice",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Frost Link": {
+    "card": "Gozuki",
+    "cost": 148,
+    "effect": "A light Cut + Ice attack. [Link damage with allies' attacks] ",
+    "elem": "ice",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Frozen Spear": {
+    "cost": 1012,
+    "effect": "A light Ice attack that pierces to the back row. Zen exclusive",
+    "elem": "ice",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Furious Fists": {
+    "effect": "Greatly raise critical hit damage. Suzuka Gongen exclusive",
+    "elem": "pas",
+    "unique": true
+  },
+  "Fusion Blast": {
+    "cost": 112,
+    "effect": "A light Bash + Fire attack.",
+    "elem": "fir",
+    "target": "1 enemy"
+  },
+  "Gale Link": {
+    "card": "Cu Chulainn",
+    "cost": 148,
+    "effect": "A light Cut + Wind attack. [Link damage with allies' attacks] ",
+    "elem": "win",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Garu": {
+    "cost": 1008,
+    "effect": "A light Wind attack.",
+    "elem": "win",
+    "target": "1 enemy"
+  },
+  "Garudyne": {
+    "card": "Garuda",
+    "cost": 1046,
+    "effect": "A heavy Wind attack.",
+    "elem": "win",
+    "target": "1 enemy"
+  },
+  "Garula": {
+    "card": "Titania",
+    "cost": 1028,
+    "effect": "A medium Wind attack.",
+    "elem": "win",
+    "target": "1 enemy"
+  },
+  "Gears of Time": {
+    "effect": "A countdown to death. Clockwork God exclusive",
+    "elem": "alm",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Gigantic Fist": {
+    "card": "Abaddon",
+    "cost": 210,
+    "effect": "A medium Bash attack that splashes to either side.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Glacial Edge": {
+    "card": "Eligor",
+    "cost": 192,
+    "effect": "A medium Cut + Ice attack.",
+    "elem": "ice",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "God's Bash": {
+    "effect": "Raise Bash attack strength",
+    "elem": "pas",
+    "unique": true
+  },
+  "God's Cut": {
+    "effect": "Raise Cut attack strength",
+    "elem": "pas",
+    "unique": true
+  },
+  "God's Hand": {
+    "card": "Zaou-Gongen",
+    "cost": 272,
+    "effect": "A severe Bash attack.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy",
+    "unique": true
+  },
+  "God's Stab": {
+    "effect": "Raise Stab attack strength",
+    "elem": "pas",
+    "unique": true
+  },
+  "Gokuentou": {
+    "card": "Flauros",
+    "cost": 192,
+    "effect": "A medium Cut + Fire attack.",
+    "elem": "fir",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Golden Gemini": {
+    "effect": "Medium chance of attack skills executing twice. Trismegistus exclusive",
+    "elem": "pas",
+    "unique": true
+  },
+  "Golden Link": {
+    "card": "Ardha",
+    "effect": "Link damage raises with Link number. [No effect if only 1 Link]",
+    "elem": "pas",
+    "unique": true
+  },
+  "Guarding Staff": {
+    "cost": 1016,
+    "effect": "Raise defense for 3 turns.",
+    "elem": "sup",
+    "target": "1 row",
+    "unique": true
+  },
+  "Guiding Sword": {
+    "cost": 1016,
+    "effect": "Raise attack for 3 turns.",
+    "elem": "sup",
+    "target": "1 row",
+    "unique": true
+  },
+  "Guillotine": {
+    "card": "White Rider",
+    "cost": 187,
+    "effect": "A heavy Cut attack, higher damage if target has ailment.",
+    "elem": "cut",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Gurentou": {
+    "cost": 124,
+    "effect": "A light Cut + Fire attack.",
+    "elem": "fir",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Hailstorm": {
+    "card": "Succubus",
+    "cost": 184,
+    "effect": "A medium Stab attack.",
+    "elem": "sta",
+    "target": "All enemies"
+  },
+  "Hama": {
+    "cost": 1012,
+    "effect": "Slight chance of instant kill.",
+    "elem": "lig",
+    "target": "1 enemy"
+  },
+  "Hamaon": {
+    "card": "Virtue",
+    "cost": 1024,
+    "effect": "Medium chance of instant kill.",
+    "elem": "lig",
+    "target": "1 enemy"
+  },
+  "Hard Slash": {
+    "effect": "A medium Cut attack",
+    "elem": "cut",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Harvest Prayer": {
+    "card": "Dis",
+    "effect": "Higher rate of rare materials. Rare chance to gather multiple times",
+    "elem": "nav"
+  },
+  "Hassou Tobi": {
+    "cost": 264,
+    "effect": "8 medium Cut attacks against random targets. Yoshitsune exclusive",
+    "elem": "cut",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Healing Breeze": {
+    "cost": 2001,
+    "effect": "Slight HP restore at end of turn, for 3 turns.",
+    "elem": "nav",
+    "target": "Party",
+    "unique": true
+  },
+  "Healing Hand": {
+    "card": "Gabriel",
+    "effect": "Raise HP restored by recovery skills. ",
+    "elem": "pas",
+    "unique": true
+  },
+  "Healing Harp": {
+    "cost": 1068,
+    "effect": "Restore HP and remove ailments/Binds each turn for 3 turns. Orpheus Telos exclusive",
+    "elem": "rec",
+    "target": "Party",
+    "unique": true
+  },
+  "Healing Tide": {
+    "cost": 2003,
+    "effect": "Moderate HP restore at end of turn, for 3 turns.",
+    "elem": "nav",
+    "target": "Party",
+    "unique": true
+  },
+  "Heat Riser": {
+    "cost": 1030,
+    "effect": "Greatly raise attack, defense, hit, and evasion for 3 turns. Izanagi-no-Okami exclusive",
+    "elem": "sup",
+    "target": "1 ally",
+    "unique": true
+  },
+  "Heat Wave": {
+    "card": "Hitokotonushi",
+    "cost": 192,
+    "effect": "A medium Bash attack that splashes to either side.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Heaven's Blade": {
+    "cost": 282,
+    "effect": "A severe Cut attack.",
+    "elem": "cut",
+    "melee": true,
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Heavy Shot": {
+    "card": "Rangda",
+    "cost": 198,
+    "effect": "A heavy Stab attack that pierces to the back row.",
+    "elem": "sta",
+    "target": "1 enemy"
+  },
+  "Heroic Gemini": {
+    "card": "Yoshitsune",
+    "effect": "Low chance of attack skills executing twice",
+    "elem": "pas",
+    "unique": true
+  },
+  "Heroic Wind": {
+    "card": "Leanan Sidhe",
+    "effect": "Restore 5% of HP each turn.",
+    "elem": "nav",
+    "target": "Party"
+  },
+  "Hex Slice": {
+    "cost": 192,
+    "effect": "A medium Cut attack, with medium chance of Curse.",
+    "elem": "cut",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Hientou": {
+    "card": "Surt",
+    "cost": 235,
+    "effect": "A heavy Cut + Fire attack.",
+    "elem": "fir",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Holy Blessing": {
+    "cost": 1028,
+    "effect": "Nullifies all Binds and status ailments 1 time, for 3 turns. Promise Bracer (Acc) exclusive",
+    "elem": "rec",
+    "target": "Party",
+    "unique": true
+  },
+  "Holy Touch": {
+    "card": "Dominion",
+    "cost": 188,
+    "effect": "A heavy Bash attack.",
+    "elem": "bas",
+    "target": "1 enemy"
+  },
+  "Holy Wrath": {
+    "effect": "Heavy damage, with Magic, Strength, and Agility Binds, on Vow Breakers. Merciful Clergyman exclusive",
+    "elem": "alm",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Hunting Prayer": {
+    "card": "Azumi",
+    "effect": "Slightly higher rate of material drops from enemies",
+    "elem": "nav"
+  },
+  "Ice Amp": {
+    "effect": "Raise Ice attack strength",
+    "elem": "pas",
+    "unique": true
+  },
+  "Ice Boost": {
+    "effect": "Slightly raise Ice attack strength",
+    "elem": "pas"
+  },
+  "Ice Corrosion": {
+    "effect": "Lower Ice resistance for 3 turns",
+    "elem": "sup",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Ice Dance": {
+    "effect": "An Ice attack that pierces to the back row",
+    "elem": "ice",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Ice Wall": {
+    "card": "King Frost",
+    "cost": 1016,
+    "effect": "Raise Ice resistance for 3 turns.",
+    "elem": "sup",
+    "target": "Party"
+  },
+  "Icy Paradise": {
+    "cost": 1058,
+    "effect": "2-4 medium Ice attacks against random targets. Black Frost exclusive",
+    "elem": "ice",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Immunity Buffer": {
+    "card": "Alilat",
+    "effect": "High chance of nullifying physical attacks against the user",
+    "elem": "pas",
+    "unique": true
+  },
+  "Impure Reach": {
+    "card": "Incubus",
+    "effect": "Raise chance of inflicting ailments. ",
+    "elem": "pas"
+  },
+  "Inferno Boost": {
+    "effect": "Greatly raise Fire attack strength. Amaterasu exclusive",
+    "elem": "pas",
+    "unique": true
+  },
+  "Infinite Link": {
+    "card": "Chi You, Thanatos",
+    "effect": "Raise damage dealt with first hit and number of Links. ",
+    "elem": "pas",
+    "unique": true
+  },
+  "Into the Void": {
+    "cost": 2005,
+    "effect": "Nullifies all damage for 1 turn. Kanzeon Exclusive",
+    "elem": "nav",
+    "target": "Party",
+    "unique": true
+  },
+  "Jinpugeki": {
+    "cost": 124,
+    "effect": "A light Cut + Wind attack.",
+    "elem": "win",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Judgement Sword": {
+    "card": "Metatron",
+    "effect": "Perform a regular attack whenever a Bind is inflicted on an enemy",
+    "elem": "pas",
+    "unique": true
+  },
+  "Kamikaze Strike": {
+    "card": "Cybele",
+    "cost": 235,
+    "effect": "A heavy Cut + Wind attack.",
+    "elem": "win",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Keraunos": {
+    "cost": 1096,
+    "effect": "6 Heavy Elec attacks against random targets. Zeus exclusive",
+    "elem": "ele",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Kidney Smash": {
+    "card": "Xiezhai",
+    "cost": 162,
+    "effect": "A medium Bash attack, lowers elemental attack for 3 turns.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "King Card": {
+    "effect": "Greatly raise Fire, Ice, Wind, and Elec attack strength",
+    "elem": "pas",
+    "unique": true
+  },
+  "Knight Card": {
+    "effect": "Raise Fire, Ice, Wind, and Elec attack strength",
+    "elem": "pas",
+    "unique": true
+  },
+  "Lemegeton": {
+    "card": "Belial",
+    "effect": "Raise power of summons in Circles",
+    "elem": "pas",
+    "unique": true
+  },
+  "Lethargy Circle": {
+    "card": "Pabilsag",
+    "cost": 1024,
+    "effect": "Medium chance of Agility Bind each turn, for 3 turns.",
+    "elem": "ail",
+    "target": "All enemies"
+  },
+  "Life Aid": {
+    "card": "Archangel",
+    "effect": "20% HP restore at the end of battle.",
+    "elem": "nav",
+    "target": "Party"
+  },
+  "Life Goblet": {
+    "cost": 1032,
+    "effect": "Moderate HP restore. [Only usable in battle]",
+    "elem": "rec",
+    "target": "1 row",
+    "unique": true
+  },
+  "Life Wall": {
+    "card": "Arahabaki",
+    "cost": 1024,
+    "effect": "Take attacks in place of allies, with reduced damage.",
+    "elem": "sup",
+    "target": "Party"
+  },
+  "Light Wall": {
+    "card": "Helel",
+    "cost": 1016,
+    "effect": "Raises Light resistance for 3 turns.",
+    "elem": "sup",
+    "target": "Party"
+  },
+  "Light Wave": {
+    "cost": 286,
+    "effect": "A severe Bash attack. Asura exclusive",
+    "elem": "bas",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Lightning Smash": {
+    "card": "Oumitsunu",
+    "cost": 154,
+    "effect": "A medium Bash + Elec attack.",
+    "elem": "ele",
+    "target": "1 enemy"
+  },
+  "Lullaby Song": {
+    "card": "Lilith",
+    "cost": 1012,
+    "effect": "Medium chance of Sleep.",
+    "elem": "ail",
+    "target": "All enemies"
+  },
+  "Lunar Blessing": {
+    "cost": 1087,
+    "effect": "Nullifies 1 attack per turn, for 3 turns. Kaguya exclusive",
+    "elem": "sup",
+    "target": "Party",
+    "unique": true
+  },
+  "Lunge": {
+    "effect": "A heavy Stab attack",
+    "elem": "sta",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Mabufu": {
+    "card": "Sarasvati",
+    "cost": 1014,
+    "effect": "A light Ice attack.",
+    "elem": "ice",
+    "target": "All enemies"
+  },
+  "Mabufudyne": {
+    "card": "Shiki-Ouji",
+    "cost": 1064,
+    "effect": "A heavy Ice attack.",
+    "elem": "ice",
+    "target": "All enemies"
+  },
+  "Mabufula": {
+    "card": "Seiryu",
+    "cost": 1036,
+    "effect": "A medium Ice attack.",
+    "elem": "ice",
+    "target": "All enemies"
+  },
+  "Magaru": {
+    "card": "Alp",
+    "cost": 1014,
+    "effect": "A light Wind attack.",
+    "elem": "win",
+    "target": "All enemies"
+  },
+  "Magarudyne": {
+    "card": "Jatayu",
+    "cost": 1064,
+    "effect": "A heavy Wind attack.",
+    "elem": "win",
+    "target": "All enemies"
+  },
+  "Magarula": {
+    "card": "Kurama Tengu",
+    "cost": 1036,
+    "effect": "A medium Wind attack.",
+    "elem": "win",
+    "target": "All enemies"
+  },
+  "Magic Mallet": {
+    "effect": "Higher rate of rare materials from Power Spots",
+    "elem": "nav"
+  },
+  "Mahama": {
+    "card": "Power",
+    "cost": 1018,
+    "effect": "Slight chance of instant kill.",
+    "elem": "lig",
+    "target": "All enemies"
+  },
+  "Mahamaon": {
+    "card": "Trumpeter",
+    "cost": 1032,
+    "effect": "Medium chance of instant kill.",
+    "elem": "lig",
+    "target": "All enemies"
+  },
+  "Makajam": {
+    "cost": 1008,
+    "effect": "Medium chance of Magic Bind.",
+    "elem": "ail",
+    "target": "1 enemy"
+  },
+  "Mamudo": {
+    "card": "Gorgon",
+    "cost": 1018,
+    "effect": "Slight chance of instant kill.",
+    "elem": "dar",
+    "target": "All enemies"
+  },
+  "Mamudoon": {
+    "card": "Astaroth",
+    "cost": 1032,
+    "effect": "Medium chance of instant kill.",
+    "elem": "dar",
+    "target": "All enemies"
+  },
+  "Maragi": {
+    "card": "Orobas",
+    "cost": 1014,
+    "effect": "A light Fire attack.",
+    "elem": "fir",
+    "target": "All enemies"
+  },
+  "Maragidyne": {
+    "card": "Ophanim",
+    "cost": 1064,
+    "effect": "A heavy Fire attack.",
+    "elem": "fir",
+    "target": "All enemies"
+  },
+  "Maragion": {
+    "card": "Pyro Jack",
+    "cost": 1036,
+    "effect": "A medium Fire attack.",
+    "elem": "fir",
+    "target": "All enemies"
+  },
+  "Marakukaja": {
+    "card": "Lachesis",
+    "cost": 1018,
+    "effect": "Raise defense for 3 turns.",
+    "elem": "sup",
+    "target": "Party"
+  },
+  "Marakunda": {
+    "card": "Hariti",
+    "cost": 1018,
+    "effect": "Lower physical defense for 3 turns.",
+    "elem": "sup",
+    "target": "All enemies"
+  },
+  "Masukukaja": {
+    "card": "Atropos",
+    "cost": 1018,
+    "effect": "Raise hit rate and evasion rate for 3 turns.",
+    "elem": "sup",
+    "target": "Party"
+  },
+  "Masukunda": {
+    "card": "Queen Mab",
+    "cost": 1018,
+    "effect": "Lower hit rate and evasion rate for 3 turns.",
+    "elem": "sup",
+    "target": "All enemies"
+  },
+  "Matarukaja": {
+    "card": "Clotho",
+    "cost": 1018,
+    "effect": "Raise attack for 3 turns.",
+    "elem": "sup",
+    "target": "Party"
+  },
+  "Matarunda": {
+    "card": "Hell Biker",
+    "cost": 1018,
+    "effect": "Lower attack for 3 turns.",
+    "elem": "sup",
+    "target": "All enemies"
+  },
+  "Mazio": {
+    "card": "Oberon",
+    "cost": 1014,
+    "effect": "A light Elec attack.",
+    "elem": "ele",
+    "target": "All enemies"
+  },
+  "Maziodyne": {
+    "card": "Tzitzimitl",
+    "cost": 1064,
+    "effect": "A heavy Elec attack.",
+    "elem": "ele",
+    "target": "All enemies"
+  },
+  "Mazionga": {
+    "card": "Thoth",
+    "cost": 1036,
+    "effect": "A medium Elec attack.",
+    "elem": "ele",
+    "target": "All enemies"
+  },
+  "Me Patra": {
+    "card": "Moh Shuvuu",
+    "cost": 1012,
+    "effect": "Remove status ailments.",
+    "elem": "rec",
+    "target": "Party"
+  },
+  "Media": {
+    "card": "High Pixie",
+    "cost": 1012,
+    "effect": "Slight HP restore.",
+    "elem": "rec",
+    "target": "Party"
+  },
+  "Mediarahan": {
+    "card": "Lakshmi",
+    "cost": 1042,
+    "effect": "Full HP restore.",
+    "elem": "rec",
+    "target": "Party"
+  },
+  "Mediarama": {
+    "card": "Kikuri-Hime",
+    "cost": 1024,
+    "effect": "Moderate HP restore.",
+    "elem": "rec",
+    "target": "Party"
+  },
+  "Megaton Press": {
+    "effect": "A heavy Bash attack, with medium chance of knockdown",
+    "elem": "bas",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Megaton Slam": {
+    "effect": "A heavy Bash attack",
+    "elem": "bas",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Megido": {
+    "card": "Mithra",
+    "cost": 1054,
+    "effect": "A medium Almighty attack, with medium chance of knockdown.",
+    "elem": "alm",
+    "target": "All enemies"
+  },
+  "Megidola": {
+    "card": "Decarabia",
+    "cost": 1068,
+    "effect": "A heavy Almighty attack, with medium chance of knockdown.",
+    "elem": "alm",
+    "target": "All enemies"
+  },
+  "Megidolaon": {
+    "card": "Vishnu",
+    "cost": 1082,
+    "effect": "A severe Almighty attack, with medium chance of knockdown.",
+    "elem": "alm",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Mighty Swing": {
+    "card": "Ikusa",
+    "cost": 156,
+    "effect": "A medium Cut attack that splashes to either side.",
+    "elem": "cut",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Mind Charge": {
+    "card": "Alice",
+    "cost": 1040,
+    "effect": "Nearly triple the user's magic attack for next hit. Lasts 3 turns",
+    "elem": "sup",
+    "unique": true
+  },
+  "Mind's Eye": {
+    "card": "Lucifer",
+    "cost": 1068,
+    "effect": "Raise critical hit rate for 3 turns.",
+    "elem": "sup",
+    "target": "Party",
+    "unique": true
+  },
+  "Moondrop": {
+    "card": "Ganesha",
+    "cost": 192,
+    "effect": "A medium Bash attack, lowers target's defense for that turn.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Morning Star": {
+    "cost": 1099,
+    "effect": "A severe Almighty attack. Helel exclusive",
+    "elem": "alm",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Mow Down": {
+    "effect": "A light Cut attack",
+    "elem": "cut",
+    "target": "1 row",
+    "unique": true
+  },
+  "Mudo": {
+    "cost": 1012,
+    "effect": "Slight chance of instant kill.",
+    "elem": "dar",
+    "target": "1 enemy"
+  },
+  "Mudoon": {
+    "card": "Pazuzu",
+    "cost": 1024,
+    "effect": "Medium chance of instant kill.",
+    "elem": "dar",
+    "target": "1 enemy"
+  },
+  "Muscle Down": {
+    "effect": "Medium chance of Strength Bind",
+    "elem": "ail",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Mutudi": {
+    "card": "Angel",
+    "cost": 1006,
+    "effect": "Remove all Binds.",
+    "elem": "rec",
+    "target": "1 ally"
+  },
+  "Myriad Arrows": {
+    "card": "Seth",
+    "cost": 230,
+    "effect": "6-8 light Stab attacks at random, with low accuracy.",
+    "elem": "sta",
+    "target": "All enemies"
+  },
+  "Nilfheim": {
+    "cost": 1084,
+    "effect": "A severe Ice attack. Loki exclusive",
+    "elem": "ice",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Nuclear Blast": {
+    "card": "Suzaku",
+    "cost": 202,
+    "effect": "A heavy Bash + Fire attack.",
+    "elem": "fir",
+    "target": "1 enemy"
+  },
+  "Null A-Bind": {
+    "effect": "Prevent Agility Bind",
+    "elem": "pas"
+  },
+  "Null Curse": {
+    "effect": "Prevent Curse",
+    "elem": "pas"
+  },
+  "Null M-Bind": {
+    "effect": "Prevent Magic Bind",
+    "elem": "pas"
+  },
+  "Null Panic": {
+    "effect": "Prevent Panic",
+    "elem": "pas"
+  },
+  "Null Paralysis": {
+    "effect": "Prevent Paralysis",
+    "elem": "pas"
+  },
+  "Null Petrify": {
+    "effect": "Prevent Petrification",
+    "elem": "pas"
+  },
+  "Null Poison": {
+    "effect": "Prevent Poison",
+    "elem": "pas"
+  },
+  "Null S-Bind": {
+    "effect": "Prevent Strength Bind",
+    "elem": "pas"
+  },
+  "Null Sleep": {
+    "effect": "Prevent Sleep",
+    "elem": "pas"
+  },
+  "Oracle": {
+    "cost": 2005,
+    "effect": "Give a random beneficial effect. Juno Exclusive",
+    "elem": "nav",
+    "target": "Party",
+    "unique": true
+  },
+  "Orb of Haste": {
+    "card": "Ganga",
+    "cost": 2002,
+    "effect": "Raise hit rate and evasion rate for 3 turns.",
+    "elem": "nav",
+    "target": "Party"
+  },
+  "Orb of Power": {
+    "card": "Chimera",
+    "cost": 2002,
+    "effect": "Raise physical and elemental attack for 3 turns.",
+    "elem": "nav",
+    "target": "Party"
+  },
+  "Orb of Resolve": {
+    "card": "Onmoraki",
+    "cost": 2002,
+    "effect": "Raise physical and elemental defense for 3 turns.",
+    "elem": "nav",
+    "target": "Party"
+  },
+  "Pain Watcher": {
+    "effect": "High chance of Pain-Eater when battle starts. [Defense up, draw enemy attacks]",
+    "elem": "pas"
+  },
+  "Pain-Eater": {
+    "card": "Mokoi",
+    "cost": 1006,
+    "effect": "Raise defense and chance to be targeted for 3 turns",
+    "elem": "sup"
+  },
+  "Panic Circle": {
+    "card": "Ukobach",
+    "cost": 1018,
+    "effect": "Medium chance of Panic each turn, for 3 turns.",
+    "elem": "ail",
+    "target": "All enemies"
+  },
+  "Panta Rhei": {
+    "cost": 1088,
+    "effect": "A severe Wind attack that splashes to either side. Odin exclusive",
+    "elem": "win",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Paths of Light": {
+    "card": "Uriel",
+    "effect": "HP restore for each step taken in a labyrinth.",
+    "elem": "nav",
+    "target": "Party",
+    "unique": true
+  },
+  "Patra": {
+    "card": "Apsaras",
+    "cost": 1006,
+    "effect": "Remove status ailments.",
+    "elem": "rec",
+    "target": "1 ally"
+  },
+  "Photon Edge": {
+    "card": "Futsunushi",
+    "cost": 254,
+    "effect": "A heavy Almighty attack.",
+    "elem": "alm",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Platinum Coin": {
+    "effect": "Medium chance to prevent all Binds and ailments against the user's row",
+    "elem": "pas",
+    "unique": true
+  },
+  "Poisma": {
+    "cost": 1008,
+    "effect": "Medium chance of Poison.",
+    "elem": "ail",
+    "target": "1 enemy"
+  },
+  "Poison Breath": {
+    "card": "Mothman",
+    "cost": 1012,
+    "effect": "Medium chance of Poison.",
+    "elem": "ail",
+    "target": "All enemies"
+  },
+  "Poison Circle": {
+    "card": "Basilisk",
+    "cost": 1018,
+    "effect": "Medium chance of Poison each turn, for 3 turns.",
+    "elem": "ail",
+    "target": "All enemies"
+  },
+  "Power Charge": {
+    "card": "Ouyamatsumi",
+    "cost": 1040,
+    "effect": "Nearly triple the user's physical attack for next hit. Lasts 3 turns",
+    "elem": "sup",
+    "unique": true
+  },
+  "Powerhouse": {
+    "effect": "Raise chance of knockdown. Yamato Takeru exclusive",
+    "elem": "pas",
+    "unique": true
+  },
+  "Pralaya": {
+    "cost": 298,
+    "effect": "A severe Almighty attack, with medium chance of instant kill. Shiva exclusive",
+    "elem": "alm",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Prana": {
+    "cost": 288,
+    "effect": "A severe Almighty attack. Ardha exclusive",
+    "elem": "alm",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Prayer": {
+    "cost": 2004,
+    "effect": "Full HP restore and remove all Binds and ailments.",
+    "elem": "nav",
+    "target": "Party",
+    "unique": true
+  },
+  "Primal Force": {
+    "card": "Sandalphon",
+    "cost": 278,
+    "effect": "A heavy Stab attack, ignoring target's resistances and buffs.",
+    "elem": "sta",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Pulinpa": {
+    "cost": 1006,
+    "effect": "Medium chance of Panic.",
+    "elem": "ail",
+    "target": "1 enemy"
+  },
+  "Punisher": {
+    "card": "Michael",
+    "effect": "Raise critical hit rate verses enemies with Bind",
+    "elem": "pas"
+  },
+  "Punishment": {
+    "cost": 221,
+    "effect": "A heavy Stab attack, effective on Bind, but will remove binds. Artemisia exclusive",
+    "elem": "sta",
+    "melee": true,
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Pure Memento": {
+    "card": "Fortuna",
+    "cost": 1018,
+    "effect": "Remove status ailments at end of each turn, for 3 turns.",
+    "elem": "rec",
+    "target": "User's row"
+  },
+  "Purifying Rain": {
+    "card": "Kaguya, Daisoujou",
+    "cost": 2002,
+    "effect": "Remove all Binds and ailments.",
+    "elem": "nav",
+    "target": "Party"
+  },
+  "Quadruple Link": {
+    "card": "Ongyo-Ki",
+    "effect": "Raise damage dealt with first hit and number of Links. ",
+    "elem": "pas"
+  },
+  "Rabbit's Foot": {
+    "effect": "10 light Bash attacks at random, with low accuracy. Best Friend exclusive",
+    "elem": "bas",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Raging Fists": {
+    "card": "Zeus",
+    "effect": "Raise critical hit damage",
+    "elem": "pas",
+    "unique": true
+  },
+  "Ragnarok": {
+    "cost": 1084,
+    "effect": "A severe Fire attack. Surt exclusive",
+    "elem": "fir",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Raijinzan": {
+    "card": "Baal Zebul",
+    "cost": 235,
+    "effect": "A heavy Cut + Elec attack.",
+    "elem": "ele",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Raikouzan": {
+    "cost": 124,
+    "effect": "A light Cut + Elec attack.",
+    "elem": "ele",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Raimeizan": {
+    "card": "Hanuman",
+    "cost": 192,
+    "effect": "A medium Cut + Elec attack.",
+    "elem": "ele",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Rakukaja": {
+    "cost": 1008,
+    "effect": "Raise defense for 3 turns.",
+    "elem": "sup",
+    "target": "1 ally"
+  },
+  "Rakunda": {
+    "cost": 1008,
+    "effect": "Lower defense for 3 turns.",
+    "elem": "sup",
+    "target": "1 enemy"
+  },
+  "Rampage": {
+    "effect": "A heavy Bash attack",
+    "elem": "bas",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Rebel Spirit": {
+    "card": "Masakado",
+    "effect": "Slightly raise attack against enemies with higher HP",
+    "elem": "pas",
+    "unique": true
+  },
+  "Recarm": {
+    "card": "Hua Po",
+    "cost": 1016,
+    "effect": "Revive, with half HP restore.",
+    "elem": "rec",
+    "target": "1 ally"
+  },
+  "Recovery": {
+    "cost": 1016,
+    "effect": "Slight HP restore. [Only usable in battle]",
+    "elem": "rec",
+    "target": "1 row",
+    "unique": true
+  },
+  "Refresh": {
+    "cost": 1018,
+    "effect": "Remove status ailments. [Only usable in battle]",
+    "elem": "rec",
+    "target": "1 row",
+    "unique": true
+  },
+  "Renewal": {
+    "cost": 1016,
+    "effect": "Remove stat penalties. [Only usable in battle]",
+    "elem": "sup",
+    "target": "1 row",
+    "unique": true
+  },
+  "Renewal Aura": {
+    "card": "Throne",
+    "cost": 2003,
+    "effect": "Moderate HP restore. [Only usable in battle]",
+    "elem": "nav",
+    "target": "Party"
+  },
+  "Renewal Ray": {
+    "card": "Ame-no-Uzume",
+    "cost": 2002,
+    "effect": "Slight HP restore. [Only usable in combat]",
+    "elem": "nav",
+    "target": "Party"
+  },
+  "Reppu Strike": {
+    "card": "Oukuninushi",
+    "cost": 192,
+    "effect": "A medium Cut + Wind attack.",
+    "elem": "win",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Resist Dark": {
+    "effect": "Reduce chance of instant kill from Darkness",
+    "elem": "pas"
+  },
+  "Resist Elec": {
+    "effect": "Reduce damage from Elec attacks",
+    "elem": "pas"
+  },
+  "Resist Fire": {
+    "effect": "Reduce damage from Fire attacks",
+    "elem": "pas"
+  },
+  "Resist Ice": {
+    "effect": "Reduce damage from Ice attacks",
+    "elem": "pas"
+  },
+  "Resist Light": {
+    "effect": "Reduce chance of instant kill from Light",
+    "elem": "pas"
+  },
+  "Resist Wind": {
+    "effect": "Reduce damage from Wind attacks",
+    "elem": "pas"
+  },
+  "Resseiha": {
+    "card": "Ares",
+    "cost": 162,
+    "effect": "1-5 medium Almighty attacks against random targets.",
+    "elem": "alm",
+    "target": "All enemies"
+  },
+  "Restoring Touch": {
+    "card": "Slime",
+    "effect": "Greatly raise natural recovery speed from status ailments and Binds",
+    "elem": "pas"
+  },
+  "Return from Yomi": {
+    "card": "Barong",
+    "effect": "Medium chance of HP restore when the user's HP drops below 30%",
+    "elem": "pas",
+    "unique": true
+  },
+  "Revenge Blow": {
+    "card": "Black Rider",
+    "cost": 200,
+    "effect": "A Bash attack delayed to next turn, stronger for each hit taken.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Roads of Light": {
+    "card": "Attis",
+    "effect": "Slight SP restore for each step taken in a labyrinth.",
+    "elem": "nav",
+    "target": "Party",
+    "unique": true
+  },
+  "Runic Shield": {
+    "card": "Odin",
+    "effect": "Medium chance to nullify Fire, Wind, Ice, and Elec versus the user's row",
+    "elem": "pas",
+    "unique": true
+  },
+  "Safeguard": {
+    "card": "Valkyrie",
+    "cost": 1012,
+    "effect": "Take attacks in place of an ally, with reduced damage.",
+    "elem": "sup",
+    "target": "1 ally"
+  },
+  "Safety Prayer": {
+    "card": "Cu Sith",
+    "effect": "Gather somewhat safely from Power Spots",
+    "elem": "nav"
+  },
+  "Salome's Kiss": {
+    "cost": 1064,
+    "effect": "High chance of Magic Bind, Strength Bind, and Agility Bind.",
+    "elem": "ail",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Samarecarm": {
+    "card": "Ishtar",
+    "cost": 1034,
+    "effect": "Revive, with full HP restore.",
+    "elem": "rec",
+    "target": "1 ally"
+  },
+  "Samsara": {
+    "cost": 1085,
+    "effect": "High chance of instant kill. Daisoujou exclusive",
+    "elem": "lig",
+    "target": "All Enemies",
+    "unique": true
+  },
+  "Scarecrow": {
+    "cost": 1008,
+    "effect": "Medium chance of Agility Bind.",
+    "elem": "ail",
+    "target": "1 enemy"
+  },
+  "Scorching Blast": {
+    "card": "Orthrus",
+    "cost": 154,
+    "effect": "A medium Bash + Fire attack.",
+    "elem": "fir",
+    "target": "1 enemy"
+  },
+  "Self-Destruct": {
+    "effect": "A medium Almighty attack*",
+    "elem": "alm",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Serene Journey": {
+    "effect": "Slight SP restore for each step taken in a labyrinth",
+    "elem": "pas",
+    "unique": true
+  },
+  "Shadow Run": {
+    "card": "Sraosha",
+    "cost": 247,
+    "effect": "A heavy Almighty attack.",
+    "elem": "alm",
+    "target": "All enemies"
+  },
+  "Shinkuuha": {
+    "card": "Matador",
+    "cost": 182,
+    "effect": "2 medium Almighty attacks.",
+    "elem": "alm",
+    "target": "1 enemy"
+  },
+  "Shura Instincts": {
+    "card": "Asura",
+    "effect": "High chance of Shura Tensei when battle starts. [Attack up, HP down each turn]",
+    "elem": "pas",
+    "unique": true
+  },
+  "Shura Revert": {
+    "card": "Atavaka",
+    "cost": 1008,
+    "effect": "Ends Shura Tensei, restoring moderate HP",
+    "elem": "sup",
+    "unique": true
+  },
+  "Shura Tensei": {
+    "card": "Rakshasa",
+    "cost": 1024,
+    "effect": "Greatly lowers HP each turn but greatly raises attack while active. ",
+    "elem": "sup"
+  },
+  "Silence Circle": {
+    "card": "Samael",
+    "cost": 1024,
+    "effect": "Medium chance of Magic Bind each turn, for 3 turns.",
+    "elem": "ail",
+    "target": "All enemies"
+  },
+  "Silent Song": {
+    "effect": "Medium chance of Magic Bind",
+    "elem": "ail",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Silent Thrust": {
+    "card": "Magatsu-Izanagi, Shiva",
+    "cost": 264,
+    "effect": "A heavy Stab attack that pierces to the back row.",
+    "elem": "sta",
+    "target": "1 enemy"
+  },
+  "Single Shot": {
+    "cost": 114,
+    "effect": "A light Stab attack that pierces to the back row.",
+    "elem": "sta",
+    "target": "1 enemy"
+  },
+  "Skull Cracker": {
+    "card": "Nata Taishi",
+    "cost": 142,
+    "effect": "A light Bash attack, with medium chance of Magic Bind.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Sleep Circle": {
+    "card": "Andras",
+    "cost": 1018,
+    "effect": "Medium chance of Sleep each turn, for 3 turns.",
+    "elem": "ail",
+    "target": "All enemies"
+  },
+  "Sleeper Punch": {
+    "cost": 116,
+    "effect": "A light Bash attack, with medium chance of Sleep.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Snake Glare": {
+    "card": "Nozuchi",
+    "effect": "High chance of preventing preemptive attacks. ",
+    "elem": "nav"
+  },
+  "Sonic Punch": {
+    "card": "Narasimha",
+    "cost": 182,
+    "effect": "A medium Bash attack, with medium chance of Sleep.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Soul Slice": {
+    "cost": 220,
+    "effect": "A heavy Cut attack, with medium chance of Curse.",
+    "elem": "cut",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Spiderweb": {
+    "effect": "Medium chance of Agility Bind",
+    "elem": "ail",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Spin Slash": {
+    "effect": "A heavy Cut attack",
+    "elem": "cut",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Spotlight": {
+    "cost": 2001,
+    "effect": "Targeted ally takes their action first",
+    "elem": "nav",
+    "unique": true
+  },
+  "Spotter": {
+    "card": "Agathion",
+    "effect": "Slightly higher rate of rare materials from Power Spots",
+    "elem": "nav"
+  },
+  "Squire Card": {
+    "effect": "Slightly raise Fire, Ice, Wind, and Elec attack strength",
+    "elem": "pas",
+    "unique": true
+  },
+  "Stab": {
+    "effect": "Normal attack using the Stab attribute",
+    "elem": "sta",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Stab Shower": {
+    "effect": "3 light Stab attacks against random targets",
+    "elem": "sta",
+    "target": "1 row",
+    "unique": true
+  },
+  "Stagnant Air": {
+    "card": "Mara",
+    "cost": 1024,
+    "effect": "Extend timers on Binds and ailments. [Does not stack]",
+    "elem": "sup",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Stardrop": {
+    "card": "Mishaguji",
+    "cost": 224,
+    "effect": "A heavy Bash attack, lowers target's defense for that turn.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Stona": {
+    "effect": "Medium chance of Petrification",
+    "elem": "ail",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Stone Mist": {
+    "effect": "Medium chance of Petrification",
+    "elem": "ail",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Stun Circle": {
+    "card": "Anzu",
+    "cost": 1018,
+    "effect": "Medium chance of Paralysis each turn, for 3 turns.",
+    "elem": "ail",
+    "target": "All enemies"
+  },
+  "Stunning Slice": {
+    "cost": 110,
+    "effect": "A light Cut attack, with medium chance of Paralysis.",
+    "elem": "cut",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Sukukaja": {
+    "cost": 1008,
+    "effect": "Raise hit rate and evasion rate for 3 turns.",
+    "elem": "sup",
+    "target": "1 ally"
+  },
+  "Sukunda": {
+    "cost": 1008,
+    "effect": "Lower hit rate and evasion rate for 3 turns.",
+    "elem": "sup",
+    "target": "1 enemy"
+  },
+  "Summon Demon": {
+    "card": "Nebiros",
+    "cost": 1072,
+    "effect": "A heavy Almighty attack. [Requires Circles]",
+    "elem": "alm",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Summon Ghost": {
+    "card": "Kaiwan",
+    "cost": 1058,
+    "effect": "A medium Almighty attack. [Requires Circles]",
+    "elem": "alm",
+    "target": "All enemies"
+  },
+  "Summon Soldier": {
+    "effect": "Summon Card Soldiers and step back. Queen of Hearts exclusive",
+    "elem": "alm",
+    "target": "Self",
+    "unique": true
+  },
+  "Sutakora Foot": {
+    "cost": 2001,
+    "effect": "Attempt to escape from the battle and teleport to the entrance of the floor",
+    "elem": "nav"
+  },
+  "Swift Strike": {
+    "card": "Setanta",
+    "cost": 158,
+    "effect": "3 quick, medium Stab attacks against random targets.",
+    "elem": "sta",
+    "target": "1 row"
+  },
+  "Swordbreaker": {
+    "card": "Scathach",
+    "effect": "Medium chance of halving physical damage versus the user's row",
+    "elem": "pas",
+    "unique": true
+  },
+  "Target Boost": {
+    "effect": "Raise damage dealt when striking weaknesses. Kala-Nemi exclusive",
+    "elem": "pas",
+    "unique": true
+  },
+  "Tarukaja": {
+    "cost": 1008,
+    "effect": "Raise attack for 3 turns.",
+    "elem": "sup",
+    "target": "1 ally"
+  },
+  "Tarunda": {
+    "cost": 1008,
+    "effect": "Lower attack for 3 turns.",
+    "elem": "sup",
+    "target": "1 enemy"
+  },
+  "Teardrop": {
+    "cost": 116,
+    "effect": "A light Bash attack, lowers target's defense for that turn.",
+    "elem": "bas",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Tempest Slash": {
+    "card": "Orochi",
+    "cost": 148,
+    "effect": "3 light Cut attacks.",
+    "elem": "cut",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Tengu's Vigil": {
+    "effect": "Reveal shortcuts in a wide area",
+    "elem": "nav"
+  },
+  "Tentarafoo": {
+    "card": "Empusa",
+    "cost": 1012,
+    "effect": "Medium chance of Panic.",
+    "elem": "ail",
+    "target": "All enemies"
+  },
+  "Thorn Chains": {
+    "effect": "A light Stab attack, with medium chance of Magic Bind",
+    "elem": "sta",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Thorn Cuffs": {
+    "effect": "A light Stab attack, with medium chance of Strength Bind",
+    "elem": "sta",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Thorn Shackles": {
+    "effect": "A light Stab attack, with medium chance of Agility Bind",
+    "elem": "sta",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Thunder Clap": {
+    "cost": 1016,
+    "effect": "A light Elec attack. Zen exclusive",
+    "elem": "ele",
+    "target": "1 row",
+    "unique": true
+  },
+  "Thunder Reign": {
+    "cost": 1080,
+    "effect": "A severe Elec attack. Thor exclusive",
+    "elem": "ele",
+    "target": "1 enemy",
+    "unique": true
+  },
+  "Thunder Smash": {
+    "card": "Thor",
+    "cost": 202,
+    "effect": "A heavy Bash + Elec attack.",
+    "elem": "ele",
+    "target": "1 enemy"
+  },
+  "Tidal Wave": {
+    "cost": 2004,
+    "effect": "Allow the party to act before any enemies for the turn.",
+    "elem": "nav",
+    "target": "Party",
+    "unique": true
+  },
+  "Time Reversal": {
+    "effect": "Full HP restore. Removes stat penalties. Clockwork God exclusive",
+    "elem": "sup",
+    "target": "Self",
+    "unique": true
+  },
+  "Time Stop": {
+    "effect": "Act up to four times on the turn used. Clockwork God exclusive",
+    "elem": "sup",
+    "target": "Self",
+    "unique": true
+  },
+  "Time Warp": {
+    "effect": "Hasten the Gears of Time countdown. Clockwork God exclusive",
+    "elem": "alm",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Tornado Boost": {
+    "effect": "Greatly raise Wind attack strength. Isis exclusive",
+    "elem": "pas",
+    "unique": true
+  },
+  "Torrent Shot": {
+    "effect": "A heavy Stab attack",
+    "elem": "sta",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Tousatsujin": {
+    "card": "Byakko",
+    "cost": 235,
+    "effect": "A heavy Cut + Ice attack.",
+    "elem": "ice",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Toxic Slice": {
+    "cost": 110,
+    "effect": "A light Cut attack, with medium chance of Poison.",
+    "elem": "cut",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Treasure Hunter": {
+    "card": "Sandman",
+    "effect": "Reveal nearby treasure boxes",
+    "elem": "nav"
+  },
+  "Trick Step": {
+    "card": "Loki",
+    "effect": "Raise evasion rate against all attacks",
+    "elem": "pas",
+    "unique": true
+  },
+  "Triple Link": {
+    "card": "Pale Rider",
+    "effect": "Raise damage dealt with first hit and number of Links. ",
+    "elem": "pas"
+  },
+  "Twin Slash": {
+    "cost": 118,
+    "effect": "2 light Cut attacks.",
+    "elem": "cut",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Uprising": {
+    "effect": "Raise attack against enemies with higher HP. Rokuten Maou exclusive",
+    "elem": "pas",
+    "unique": true
+  },
+  "Victory Cry": {
+    "card": "Beelzebub",
+    "effect": "Full HP restore at the end of battle.",
+    "elem": "nav",
+    "target": "Party",
+    "unique": true
+  },
+  "Vorpal Blade": {
+    "card": "Raphael",
+    "cost": 194,
+    "effect": "A heavy Cut attack.",
+    "elem": "cut",
+    "target": "1 enemy"
+  },
+  "Vow": {
+    "effect": "Forbid an action-type. Merciful Clergyman exclusive",
+    "elem": "alm",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Warrior Title": {
+    "card": "Melchizedek",
+    "effect": "Raise critical hit rate",
+    "elem": "pas",
+    "unique": true
+  },
+  "Whirlwind Swing": {
+    "effect": "Medium chance to add splash effect on single-target attack skills. Evolved Castor exclusive",
+    "elem": "pas",
+    "unique": true
+  },
+  "Wind Amp": {
+    "effect": "Raise Wind attack strength",
+    "elem": "pas",
+    "unique": true
+  },
+  "Wind Boost": {
+    "effect": "Slightly raise Wind attack strength",
+    "elem": "pas"
+  },
+  "Wind Corrosion": {
+    "effect": "Lower Wind resistance for 3 turns",
+    "elem": "sup",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Wind Dance": {
+    "effect": "2-4 light Wind attacks against random targets",
+    "elem": "win",
+    "target": "1 row",
+    "unique": true
+  },
+  "Wind Wall": {
+    "card": "Jinn",
+    "cost": 1016,
+    "effect": "Raise Wind resistance for 3 turns.",
+    "elem": "sup",
+    "target": "Party"
+  },
+  "World's End": {
+    "cost": 288,
+    "effect": "A severe Almighty attack. Lucifer exclusive",
+    "elem": "alm",
+    "target": "All enemies",
+    "unique": true
+  },
+  "Yomi Return": {
+    "card": "Shiisaa",
+    "cost": 2003,
+    "effect": "Revive, with half HP restore.",
+    "elem": "nav",
+    "target": "1 ally"
+  },
+  "Zanshinken": {
+    "card": "Girimehkala",
+    "cost": 198,
+    "effect": "Medium Cut attack. Hits again if user takes no damage that turn.",
+    "elem": "cut",
+    "melee": true,
+    "target": "1 enemy"
+  },
+  "Zero Set": {
+    "cost": 2004,
+    "effect": "Skill costs are reduced to 0 for 1 turn.",
+    "elem": "nav",
+    "target": "Party",
+    "unique": true
+  },
+  "Zio": {
+    "cost": 1008,
+    "effect": "A light Elec attack.",
+    "elem": "ele",
+    "target": "1 enemy"
+  },
+  "Ziodyne": {
+    "card": "Mother Harlot",
+    "cost": 1046,
+    "effect": "A heavy Elec attack.",
+    "elem": "ele",
+    "target": "1 enemy"
+  },
+  "Zionga": {
+    "card": "Raijuu",
+    "cost": 1028,
+    "effect": "A medium Elec attack.",
+    "elem": "ele",
+    "target": "1 enemy"
+  }
+}

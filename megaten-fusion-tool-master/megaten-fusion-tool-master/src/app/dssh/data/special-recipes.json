@@ -1,0 +1,179 @@
+{
+  "Ara Mitama": {
+    "pairs": [
+      "Salamander x Gnome",
+      "Undine x Gnome",
+      "Sylph x Gnome",
+      "Sylph N x Gnome"
+    ]
+  },
+  "Nigi Mitama": {
+    "pairs": [
+      "Salamander x Undine",
+      "Salamander x Sylph",
+      "Salamander x Sylph N",
+      "Undine x Sylph",
+      "Undine x Sylph N"
+    ]
+  },
+  "Kusi Mitama": {
+    "pairs": [
+      "Sylph x Gnome",
+      "Sylph N x Gnome"
+    ],
+    "special": [
+      "Salamander",
+      "Undine"
+    ]
+  },
+  "Saki Mitama": {
+    "pairs": [
+      "Salamander x Undine"
+    ],
+    "special": [
+      "Sylph",
+      "Sylph N",
+      "Gnome"
+    ]
+  },
+  "Huang Di": {
+    "prereq": "Fuse with Lvl 80 Zoma",
+    "special": [
+      "Xi Wangmu"
+    ]
+  },
+  "Rama": {
+    "prereq": "Fuse with Lvl 70 Zoma",
+    "special": [
+      "Vishnu"
+    ]
+  },
+  "Saladin": {
+    "prereq": "Fuse with Lvl 60 Zoma",
+    "special": [
+      "Alilat"
+    ]
+  },
+  "Siegfried": {
+    "prereq": "Fuse with Lvl 50 Zoma",
+    "special": [
+      "Lugh"
+    ]
+  },
+  "Jeanne D'Arc": {
+    "prereq": "Fuse with Lvl 40 Zoma",
+    "special": [
+      "Black Maria"
+    ]
+  },
+  "Masakado": {
+    "prereq": "Fuse with Lvl 80 Zoma during new moon",
+    "special": [
+      "Hachiman"
+    ]
+  },
+  "Longinus": {
+    "prereq": "Fuse with Lvl 70 Zoma during new moon",
+    "special": [
+      "Metatron"
+    ]
+  },
+  "Yoshitsune": {
+    "prereq": "Fuse with Lvl 60 Zoma during new moon",
+    "special": [
+      "Hachiman"
+    ]
+  },
+  "Hagen": {
+    "prereq": "Fuse with Lvl 50 Zoma during new moon",
+    "special": [
+      "Fafnir"
+    ]
+  },
+  "Lanling Wang": {
+    "prereq": "Fuse with Lvl 40 Zoma during new moon",
+    "special": [
+      "Seiryu"
+    ]
+  },
+  "Frost Five": {
+    "prereq": "Special fusion event requires all other Rangers"
+  },
+  "Baal": {
+    "fusion": "normal",
+    "special": [
+      "Anat",
+      "Mot"
+    ]
+  },
+  "Cybele": {
+    "fusion": "normal",
+    "special": [
+      "Pallas Athena",
+      "Diana"
+    ]
+  },
+  "Kali": {
+    "fusion": "normal",
+    "special": [
+      "Kangiten",
+      "Kartikeya"
+    ]
+  },
+  "Loki": {
+    "fusion": "normal",
+    "special": [
+      "Sleipnir",
+      "Fenrir"
+    ]
+  },
+  "Mitra": {
+    "fusion": "normal",
+    "special": [
+      "Sraosha",
+      "Haoma"
+    ]
+  },
+  "Mot": {
+    "fusion": "normal",
+    "special": [
+      "Baal",
+      "Anat"
+    ]
+  },
+  "Norn": {
+    "fusion": "normal",
+    "special": [
+      "Odin",
+      "Loki"
+    ]
+  },
+  "Persephone": {
+    "fusion": "normal",
+    "special": [
+      "Diana",
+      "Volvo"
+    ]
+  },
+  "Saturnus": {
+    "fusion": "normal",
+    "special": [
+      "Nyx",
+      "Volvo"
+    ]
+  },
+  "Shiva": {
+    "fusion": "normal",
+    "special": [
+      "Barong",
+      "Rangda"
+    ]
+  },
+  "Surt": {
+    "fusion": "normal",
+    "special": [
+      "Loki",
+      "Muspell"
+    ]
+  }
+}

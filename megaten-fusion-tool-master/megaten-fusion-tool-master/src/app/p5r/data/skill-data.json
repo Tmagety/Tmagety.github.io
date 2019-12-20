@@ -1,0 +1,797 @@
+{
+  "Abysmal Surge": {
+    "cost": 1008,
+    "effect": "Inflict Despair (medium odds) to all foes.",
+    "element": "ailment"
+  },
+  "Abyssal Gaze": {
+    "cost": 1050,
+    "effect": "Deal severe Almighty damage to all foes.",
+    "element": "almighty",
+    "unique": "Hastur"
+  },
+  "Akasha Arts": {
+    "cost": 20,
+    "effect": "Deal 1-2 times severe Phys damage to all foes.",
+    "element": "phys",
+    "unique": "Athena"
+  },
+  "Ali Dance": {
+    "effect": "Half hit rate of all incoming attacks.",
+    "element": "passive",
+    "fuse": "Jazz 1/15"
+  },
+  "All Grace": {
+    "effect": "Increases chance of inflicting Burn, Freeze, and Shock by 50% for all allies",
+    "element": "trait",
+    "unique": "Agnes"
+  },
+  "All Judge": {
+    "effect": "Increases chance of inflicting Burn, Freeze, and Shock by 25% for all allies",
+    "element": "trait",
+    "unique": "Johanna"
+  },
+  "Apocalyptic Fury": {
+    "effect": "Strengthens Phys attacks by 30%",
+    "element": "trait"
+  },
+  "Arms Master": {
+    "effect": "Half HP costs of physical skills.",
+    "element": "passive",
+    "fuse": "Jazz 1/22"
+  },
+  "Ave Maria": {
+    "effect": "Reduces costs of Support spells by 75%",
+    "element": "trait"
+  },
+  "Avenger": {
+    "effect": "Doubles damage from Counter skills",
+    "element": "trait"
+  },
+  "Blade of Rebellion": {
+    "cost": 1099,
+    "effect": "Deal severe Almighty damage to 1 for with extra effectiveness if down.",
+    "element": "almighty",
+    "unique": "Hereward"
+  },
+  "Bless Lineage": {
+    "effect": "Halves costs of Bless skills",
+    "element": "trait"
+  },
+  "Bloodshot Gaze": {
+    "effect": "Raises evasion against foes afflicted with ailments",
+    "element": "trait"
+  },
+  "Bloodsucker": {
+    "effect": "Doubles effectiveness of absorption skills",
+    "element": "trait"
+  },
+  "Brain Jack": {
+    "cost": 1008,
+    "effect": "Inflict Brainwash (medium odds) to all foes.",
+    "element": "ailment"
+  },
+  "Brave Step": {
+    "cost": 1016,
+    "effect": "Increase critical rate for all allies.",
+    "element": "support",
+    "unique": "Cendrillon"
+  },
+  "Burning Touch": {
+    "effect": "Increases chance of inflicting Burn after Baton Pass",
+    "element": "trait"
+  },
+  "Chained Lineage": {
+    "effect": "Greatly raises damage dealt after Baton Pass",
+    "element": "trait"
+  },
+  "Chained Technique": {
+    "effect": "Raises damage dealt after Baton Pass",
+    "element": "trait"
+  },
+  "Champion Cup": {
+    "cost": 1010,
+    "effect": "Diarama + Tarukaja",
+    "element": "support",
+    "fuse": "Kamoshida Ishi",
+    "unique": "Kamoshida Ishi"
+  },
+  "Charge": {
+    "cost": 1015,
+    "effect": "Multiply user's next Phys attack damage by 2.5.",
+    "element": "support",
+    "fuse": "Jazz 9/4"
+  },
+  "Charge All": {
+    "cost": 1080,
+    "effect": "Multiply all allies' next Phys attack damage by 2.5.",
+    "element": "support",
+    "unique": "William"
+  },
+  "Charging Bull": {
+    "effect": "Scales damage dealt against lost HP",
+    "element": "trait",
+    "unique": "Asterius"
+  },
+  "Checkmate": {
+    "cost": 1090,
+    "effect": "Decrease all foes' Attack, Defense and Agility for 3 turns.",
+    "element": "support",
+    "unique": "Agnes"
+  },
+  "Cocytus": {
+    "effect": "Reduces costs of Ice skills by 75%",
+    "element": "trait"
+  },
+  "Concentrate": {
+    "cost": 1015,
+    "effect": "Multiply user's next magical attack damage by 2.5.",
+    "element": "support",
+    "fuse": "Jazz 9/25"
+  },
+  "Concentrate All": {
+    "cost": 1080,
+    "effect": "Multiply all allies' next Magic attack damage by 2.5.",
+    "element": "support",
+    "unique": "Celestine"
+  },
+  "Coolheadedness": {
+    "effect": "Reduces ailment susceptibility by 25% for all allies",
+    "element": "trait",
+    "unique": "Milady"
+  },
+  "Creation Ceremony": {
+    "effect": "Scales damage dealt and received against Compendium completion rate. Can exceed 100% limit",
+    "element": "trait",
+    "unique": "Izanagi-no-Okami"
+  },
+  "Crisis Management": {
+    "effect": "Reduces damage taken when weakness struck",
+    "element": "trait"
+  },
+  "Cunning Strategist": {
+    "effect": "Halves Support and Almighty skill costs for all allies",
+    "element": "trait",
+    "unique": "Hereward"
+  },
+  "Cunning Tactician": {
+    "effect": "Halves Support skill costs for all allies",
+    "element": "trait",
+    "unique": "Robin Hood"
+  },
+  "Curse Lineage": {
+    "effect": "Halves costs of Curse skills",
+    "element": "trait"
+  },
+  "Cycle of Sorrow": {
+    "effect": "Activates endure up to 4 times",
+    "element": "trait",
+    "unique": "Orpheus"
+  },
+  "Daybreak Bell": {
+    "effect": "High chance to prevent down when weakness struck for all allies",
+    "element": "trait",
+    "unique": "Ella"
+  },
+  "Dazzler": {
+    "cost": 1003,
+    "effect": "Inflict Dizzy (high odds) to 1 foe.",
+    "element": "ailment"
+  },
+  "Deadly Plague": {
+    "effect": "Increases success rate of instant death skills",
+    "element": "trait"
+  },
+  "Death Scythe": {
+    "cost": 20,
+    "effect": "Deal severe Phys damage and inflict Fear (medium odds) to 1 foe.",
+    "element": "phys"
+  },
+  "Debilitate": {
+    "cost": 1030,
+    "effect": "Decrease 1 foe's Attack, Defense and Agility for 3 turns.",
+    "element": "support",
+    "fuse": "Jazz 12/11"
+  },
+  "Demon Kingdom": {
+    "effect": "Strengthen all magical attacks by 50%.",
+    "element": "passive",
+    "unique": "Satanel"
+  },
+  "Die Already!": {
+    "effect": "Reduces costs of instant death skills to 0",
+    "element": "trait"
+  },
+  "Divine Ceremony": {
+    "effect": "Raises chance of ally traits activating",
+    "element": "trait",
+    "unique": "Izanagi"
+  },
+  "Dormina": {
+    "cost": 1003,
+    "effect": "Inflict Sleep (high odds) to 1 foe.",
+    "element": "ailment"
+  },
+  "Double Shot": {
+    "cost": 12,
+    "effect": "Deal 2 times light Gun damage to 1 foe.",
+    "element": "gun"
+  },
+  "Dream Needle": {
+    "cost": 8,
+    "effect": "Deal weak Gun damage and inflict Sleep (medium odds) to 1 foe.",
+    "element": "gun"
+  },
+  "Drunken Frenzy": {
+    "effect": "Reduces costs of Fire skills by 75%",
+    "element": "trait"
+  },
+  "Dying Will": {
+    "effect": "Allows use of ambush-only skills under normal conditions",
+    "element": "trait"
+  },
+  "Elec Break": {
+    "cost": 1006,
+    "effect": "Negate Electric resistances of all foes.",
+    "element": "support"
+  },
+  "Elec Lineage": {
+    "effect": "Halves costs of Elec skills",
+    "element": "trait"
+  },
+  "Enlightenment": {
+    "effect": "Extends buffs cast on self by 2 turns",
+    "element": "trait"
+  },
+  "Evil Smile": {
+    "cost": 1008,
+    "effect": "Inflict Fear (medium odds) to all foes.",
+    "element": "ailment"
+  },
+  "Evil Touch": {
+    "cost": 1003,
+    "effect": "Inflict Fear (high odds) to 1 foe.",
+    "element": "ailment"
+  },
+  "Exquisite Technique": {
+    "effect": "Strengthens technical damage by 25%",
+    "element": "trait"
+  },
+  "False Painting": {
+    "cost": 1022,
+    "effect": "Absorbs any non-almighty attack once + Removes weakness",
+    "element": "support",
+    "fuse": "Madarame Ishi",
+    "unique": "Madarame Ishi"
+  },
+  "Fiendish Insight": {
+    "effect": "High chance to evade Phys attacks for all allies",
+    "element": "trait",
+    "unique": "Gorokichi"
+  },
+  "Fire Break": {
+    "cost": 1006,
+    "effect": "Negate Fire resistances of all foes.",
+    "element": "support"
+  },
+  "Fire Lineage": {
+    "effect": "Halves costs of Fire skills",
+    "element": "trait"
+  },
+  "Five Elements": {
+    "effect": "Strengthens technical damage by 50%",
+    "element": "trait"
+  },
+  "Focused Gaze": {
+    "effect": "Strengthens single-target magic by 20%. Can exceed 100% limit",
+    "element": "trait"
+  },
+  "Forbidden Knowledge": {
+    "effect": "Reduces costs of magic attack skills by 75%",
+    "element": "trait"
+  },
+  "Foul Contagion": {
+    "effect": "Increases chance of inflicting ailments after Baton Pass",
+    "element": "trait"
+  },
+  "Freezing Follow-up": {
+    "effect": "Increases chance of inflicting Freeze on downed foe",
+    "element": "trait"
+  },
+  "Furious Spirit": {
+    "effect": "Low chance to strengthen Phys attacks by 80% for all allies",
+    "element": "trait",
+    "unique": "William"
+  },
+  "Gambler Intuition": {
+    "cost": 1020,
+    "effect": "Masukukaja + Begin battle with Concentrate",
+    "element": "support",
+    "fuse": "Niijima Ishi",
+    "unique": "Niijima Ishi"
+  },
+  "Gattling Blows": {
+    "cost": 16,
+    "effect": "Deal 3 to 4 times light Phys damage to 1 foe.",
+    "element": "phys"
+  },
+  "Goblet of Sin": {
+    "effect": "Increases chance of inflicting ailments on downed foes",
+    "element": "trait"
+  },
+  "Group Hypnosis": {
+    "effect": "Extends buffs cast on allies by 1 turn",
+    "element": "trait"
+  },
+  "Guiding Tentacle": {
+    "cost": 1054,
+    "effect": "Life Aid + Down all foes",
+    "element": "support",
+    "fuse": "??? Ishi",
+    "unique": "??? Ishi"
+  },
+  "Heat Riser": {
+    "cost": 1030,
+    "effect": "Increase 1 ally's Attack, Defense and Agility for 3 turns.",
+    "element": "support",
+    "fuse": "Jazz 12/4"
+  },
+  "Heavyweight": {
+    "effect": "Strengthens Phys skills by 20%",
+    "element": "trait"
+  },
+  "Herald's Grace": {
+    "effect": "Reduces costs of Bless skills by 75%",
+    "element": "trait"
+  },
+  "Herald's Verdict": {
+    "effect": "Greatly increases success rate of instant death skills",
+    "element": "trait"
+  },
+  "Heretic Charisma": {
+    "effect": "Strengthens magic skills by 50%",
+    "element": "trait"
+  },
+  "Hidden Presence": {
+    "effect": "Increased chance of ally follow-up attacks",
+    "element": "trait",
+    "unique": "Raoul"
+  },
+  "High-speed Hacking": {
+    "effect": "Restores 25% HP after Futaba's All-Out Attack for all allies",
+    "element": "trait",
+    "unique": "Necronomicon"
+  },
+  "Hollow Fool": {
+    "effect": "Raises damage dealt by 40% for each foe afflicted with an ailment. Can exceed 100% limit",
+    "element": "trait",
+    "unique": "Magatsu-Izanagi"
+  },
+  "Hunting Premonition": {
+    "effect": "Reduces costs of Elec skills by 75%",
+    "element": "trait"
+  },
+  "Ice Break": {
+    "cost": 1006,
+    "effect": "Negate Ice resistances of all foes.",
+    "element": "support"
+  },
+  "Ice Lineage": {
+    "effect": "Halves costs of Ice skills",
+    "element": "trait"
+  },
+  "Immovable": {
+    "effect": "Reduces ailment susceptibility by 50% for all allies",
+    "element": "trait",
+    "unique": "Lucy"
+  },
+  "Iron Heart": {
+    "effect": "Halves costs of SP skills after Baton Pass",
+    "element": "trait",
+    "unique": "Thanatos"
+  },
+  "Iron Immunity": {
+    "effect": "Nullifies ailments",
+    "element": "trait"
+  },
+  "Kill Rush": {
+    "cost": 14,
+    "effect": "Deal 1-3 times light Phys damage to 1 foe.",
+    "element": "phys"
+  },
+  "Laevatein": {
+    "cost": 25,
+    "effect": "Deal severe Phys damage to 1 foe.",
+    "element": "phys",
+    "unique": "Loki"
+  },
+  "Last Stand": {
+    "effect": "Allows use of ambush-only skills after Baton Pass",
+    "element": "trait"
+  },
+  "Life Focus": {
+    "effect": "Strengthens HP regeneration skills by 50%",
+    "element": "trait"
+  },
+  "Life Wall": {
+    "cost": 1095,
+    "effect": "Repels next non-almighty attack for all allies.",
+    "element": "support",
+    "unique": "Lucy"
+  },
+  "Lotus Dance": {
+    "effect": "Extends buffs cast on allies by 2 turns",
+    "element": "trait"
+  },
+  "Lullaby": {
+    "cost": 1008,
+    "effect": "Inflict Sleep (medium odds) to all foes.",
+    "element": "ailment"
+  },
+  "Majestic Aura": {
+    "effect": "Doubles effectiveness and decreases costs of Recovery skills for all allies",
+    "element": "trait",
+    "unique": "Diego"
+  },
+  "Makajam": {
+    "cost": 1003,
+    "effect": "Inflict Forget (high odds) to 1 foe.",
+    "element": "ailment"
+  },
+  "Makajamaon": {
+    "cost": 1008,
+    "effect": "Inflict Forget (medium odds) to all foes.",
+    "element": "ailment"
+  },
+  "Makarakarn": {
+    "cost": 1024,
+    "effect": "Create a shield on 1 ally to repel 1 magical attack.",
+    "element": "support",
+    "fuse": "Jazz 10/30"
+  },
+  "Marakukaja": {
+    "cost": 1024,
+    "effect": "Increase party's Defense for 3 turns.",
+    "element": "support",
+    "fuse": "Jazz 7/17 10/16"
+  },
+  "Marakunda": {
+    "cost": 1024,
+    "effect": "Decrease all foes' Defense for 3 turns.",
+    "element": "support",
+    "fuse": "Jazz 8/14 11/13"
+  },
+  "Marin Karin": {
+    "cost": 1003,
+    "effect": "Inflict Brainwash (high odds) to 1 foe.",
+    "element": "ailment"
+  },
+  "Masquerade": {
+    "cost": 25,
+    "effect": "Deal 2 times severe Phys damage to 1 foe.",
+    "element": "phys",
+    "unique": "Ella"
+  },
+  "Mastermind Authority": {
+    "cost": 1015,
+    "effect": "Defense Master + Charge on Ally",
+    "element": "support",
+    "fuse": "??? Ishi",
+    "unique": "??? Ishi"
+  },
+  "Masukukaja": {
+    "cost": 1024,
+    "effect": "Increase party's Agility for 3 turns.",
+    "element": "support",
+    "fuse": "Jazz 7/31 10/23"
+  },
+  "Masukunda": {
+    "cost": 1024,
+    "effect": "Decrease all foes' Agility for 3 turns.",
+    "element": "support",
+    "fuse": "Jazz 8/28 11/27"
+  },
+  "Matarukaja": {
+    "cost": 1024,
+    "effect": "Increase party's Attack power for 3 turns.",
+    "element": "support",
+    "fuse": "Jazz 7/10 10/9"
+  },
+  "Matarunda": {
+    "cost": 1024,
+    "effect": "Decrease all foes' Attack power for 3 turns.",
+    "element": "support",
+    "fuse": "Jazz 8/7 11/6"
+  },
+  "Midnight Bell": {
+    "effect": "Chance to prevent down when weakness struck for all allies",
+    "element": "trait",
+    "unique": "Cendrillon"
+  },
+  "Miracle Rush": {
+    "cost": 16,
+    "effect": "Deal medium Phys damage to all foes. High critical rate.",
+    "element": "phys",
+    "unique": "Diego"
+  },
+  "Mother Blessing": {
+    "effect": "Reduces costs of Recovery skills by 75%",
+    "element": "trait"
+  },
+  "Myriad Blooms": {
+    "cost": 1090,
+    "effect": "Increase all allies' Attack, Defense and Agility for 3 turns.",
+    "element": "support",
+    "unique": "Gorokichi"
+  },
+  "Myriad Truths": {
+    "cost": 1040,
+    "effect": "Deal 3 times heavy Almighty damage to all foes.",
+    "element": "almighty",
+    "unique": "Izanagi-no-Okami"
+  },
+  "Naranari": {
+    "effect": "Doubles effectiveness of SP regeneration skills",
+    "element": "trait"
+  },
+  "Neo Cadenza": {
+    "cost": 1024,
+    "effect": "Restore 50% HP of party and increase attack, defense, and evasion rate.",
+    "element": "healing",
+    "unique": "Orpheus F"
+  },
+  "Nobility": {
+    "effect": "Doubles effectiveness of Recovery skills for all allies",
+    "element": "trait",
+    "unique": "Zorro"
+  },
+  "Nocturnal Flash": {
+    "cost": 1008,
+    "effect": "Inflict Dizzy (medium odds) to all foes.",
+    "element": "ailment"
+  },
+  "Nuke Break": {
+    "cost": 1006,
+    "effect": "Negate Nuclear resistances of all foes.",
+    "element": "support"
+  },
+  "Nuke Lineage": {
+    "effect": "Halves costs of Nuke skills",
+    "element": "trait"
+  },
+  "Odd Immunity": {
+    "effect": "Reduces susceptibility to ailments",
+    "element": "trait"
+  },
+  "Offered Hand": {
+    "effect": "Allows use of consumables without expending them after Baton Pass",
+    "element": "trait",
+    "unique": "Ariadne"
+  },
+  "Offered Soul": {
+    "effect": "Doubles effectiveness of HP and SP regeneration skills",
+    "element": "trait",
+    "unique": "Messiah"
+  },
+  "Olive Grace": {
+    "effect": "Halves costs of skills after Baton Pass",
+    "element": "trait",
+    "unique": "Athena"
+  },
+  "Ominous Words": {
+    "cost": 1003,
+    "effect": "Inflict Despair (high odds) to 1 foe.",
+    "element": "ailment"
+  },
+  "Oni Whisper": {
+    "effect": "Doubles effectiveness of HP regeneration skills",
+    "element": "trait"
+  },
+  "Pandemic Gaze": {
+    "effect": "Raises damage dealt by 25% for each foe afflicted with an ailment",
+    "element": "trait"
+  },
+  "Path of Carnage": {
+    "effect": "Reduces costs of Nuke skills by 75%",
+    "element": "trait"
+  },
+  "Peerless Gaze": {
+    "effect": "Strengthens all-target magic by 20%. Can exceed 100% limit",
+    "element": "trait"
+  },
+  "Phantom Show": {
+    "cost": 1004,
+    "effect": "Inflict Sleep (high odds) to all foes.",
+    "element": "ailment",
+    "unique": "Raoul"
+  },
+  "Power Slash": {
+    "cost": 10,
+    "effect": "Deal medium Phys damage to 1 foe.",
+    "element": "phys"
+  },
+  "President Intuition": {
+    "cost": 1015,
+    "effect": "Attack Master + Concentrate on Ally",
+    "element": "support",
+    "fuse": "Okumura Ishi",
+    "unique": "Okumura Ishi"
+  },
+  "Psy Break": {
+    "cost": 1006,
+    "effect": "Negate Psy resistances of all foes.",
+    "element": "support"
+  },
+  "Psy Lineage": {
+    "effect": "Halves costs of Psy skills",
+    "element": "trait"
+  },
+  "Pulinpa": {
+    "cost": 1003,
+    "effect": "Inflict Confuse (high odds) to 1 foe.",
+    "element": "ailment"
+  },
+  "Reaper's Despair": {
+    "effect": "Reduces costs of Curse skills by 75%",
+    "element": "trait"
+  },
+  "Recovery Lineage": {
+    "effect": "Halves costs of Recovery skills",
+    "element": "trait"
+  },
+  "Relentlessness": {
+    "effect": "Strengthens attacks that strike foe weaknesses by 50%",
+    "element": "trait"
+  },
+  "Roguish Instinct": {
+    "effect": "Chance to evade Phys attacks for all allies",
+    "element": "trait",
+    "unique": "Goemon"
+  },
+  "Saintly Devotion": {
+    "cost": 1026,
+    "effect": "Revive and fully restore HP for all allies.",
+    "element": "healing",
+    "unique": "Maria"
+  },
+  "Saintly Embrace": {
+    "effect": "Recover 25% max HP each turn in battle.",
+    "element": "passive",
+    "unique": "Maria"
+  },
+  "Saintly Words": {
+    "effect": "Recover 15% max HP and SP each turn in battle.",
+    "element": "passive",
+    "unique": "Maria"
+  },
+  "Self Hypnosis": {
+    "effect": "Extends buffs cast on self by 1 turn",
+    "element": "trait"
+  },
+  "Shocking Follow-up": {
+    "effect": "Increases chance of inflicting Shock on downed foes",
+    "element": "trait"
+  },
+  "Sorcery": {
+    "effect": "Low chance to halve attack spell costs for all allies",
+    "element": "trait",
+    "unique": "Celestine"
+  },
+  "Spell Master": {
+    "effect": "Half costs of magic skills.",
+    "element": "passive",
+    "fuse": "Jazz 1/29"
+  },
+  "Spirit Focus": {
+    "effect": "Strengthens SP regeneration skills by 50%",
+    "element": "trait"
+  },
+  "Stagnant Aura": {
+    "effect": "Increases chance of inflicting ailments",
+    "element": "trait"
+  },
+  "Storm Born": {
+    "effect": "Activates all equipped special weather passives",
+    "element": "trait"
+  },
+  "Support Lineage": {
+    "effect": "Halves costs of Support skills",
+    "element": "trait"
+  },
+  "Swift Strike": {
+    "cost": 17,
+    "effect": "Deal 2 to 4 times weak Phys damage to all foes.",
+    "element": "phys"
+  },
+  "Sword God": {
+    "effect": "Triples damage from Charge skills",
+    "element": "trait"
+  },
+  "Taunt": {
+    "cost": 1003,
+    "effect": "Inflict Rage (high odds) to 1 foe.",
+    "element": "ailment"
+  },
+  "Tentarafoo": {
+    "cost": 1008,
+    "effect": "Inflict Confuse (medium odds) to all foes.",
+    "element": "ailment"
+  },
+  "Tetrakarn": {
+    "cost": 1024,
+    "effect": "Create a shield on 1 ally to repel 1 Phys attack.",
+    "element": "support",
+    "fuse": "Jazz 10/2"
+  },
+  "Treasured Talent": {
+    "effect": "Carries multiple traits to pass down during fusion",
+    "element": "trait",
+    "unique": "Regent"
+  },
+  "Tree of Life": {
+    "effect": "Strengthens damage dealt on downed foes by 50%",
+    "element": "trait",
+    "unique": "Tsukiyomi"
+  },
+  "Ultimate Support": {
+    "effect": "Moral Support may activate simultaneous effects",
+    "element": "passive",
+    "unique": "Al Azif"
+  },
+  "Unstoppable Hacking": {
+    "effect": "Restores 100% after Futaba's All-Out Attack for all allies",
+    "element": "trait",
+    "unique": "Al Azif"
+  },
+  "Untouchable Beauty": {
+    "effect": "Triples damage dealt by Counter skills",
+    "element": "trait",
+    "unique": "Kaguya"
+  },
+  "Vahana": {
+    "effect": "Reduces costs of Wind skills by 75%",
+    "element": "trait"
+  },
+  "Vault Guardian": {
+    "cost": 1020,
+    "effect": "Marakukaja + Begin battle with Tetrakarn and Makarakarn",
+    "element": "support",
+    "fuse": "Kaneshiro Ishi",
+    "unique": "Kaneshiro Ishi"
+  },
+  "Wage War": {
+    "cost": 1008,
+    "effect": "Inflict Rage (medium odds) to all foes.",
+    "element": "ailment"
+  },
+  "Wargod's Wrath": {
+    "effect": "Reduces costs of Psy skills by 75%",
+    "element": "trait"
+  },
+  "Wild Spirit": {
+    "effect": "Low chance to strengthen Phys attacks by 40% for all allies",
+    "element": "trait",
+    "unique": "Captain Kidd"
+  },
+  "Wind Break": {
+    "cost": 1006,
+    "effect": "Negate Wind resistances of all foes.",
+    "element": "support"
+  },
+  "Wind Lineage": {
+    "effect": "Halves costs of Wind skills",
+    "element": "trait"
+  },
+  "Wings of Wisdom": {
+    "cost": 1010,
+    "effect": "Speed Master + Amrita Shower",
+    "element": "support",
+    "fuse": "Futaba Ishi",
+    "unique": "Futaba Ishi"
+  },
+  "Witchcraft": {
+    "effect": "Low chance to decrease attack spell costs for all allies",
+    "element": "trait",
+    "unique": "Carmen"
+  }
+}
